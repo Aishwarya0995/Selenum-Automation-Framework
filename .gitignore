@@ -1,0 +1,16 @@
+target/
+bin/
+test-output/
+screenshots/
+logs/
+
+.classpath
+.project
+.settings/
+
+.idea/
+*.iml
+
+.DS_Store
+
+*.log
