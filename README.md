@@ -1,5 +1,4 @@
 # Selenium Automation Framework
-
 ## Tech Stack
 - Java
 - Selenium WebDriver
@@ -26,6 +25,10 @@ src/main/java
 
 src/test/java
 - tests
+- 
+## Mavn Command
+mvn clean test
+
 
 ## How to Run
 
